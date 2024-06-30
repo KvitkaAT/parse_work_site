@@ -1,6 +1,5 @@
 import requests
 
-import settings
 
 from fake_useragent import UserAgent
 
